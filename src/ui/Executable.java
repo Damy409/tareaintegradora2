@@ -4,6 +4,8 @@ import java.util.Scanner;
 import model.Controller;
 
 public class Executable {
+	
+	//Esta linea la añadi en el computador de la sala
 
 	private Scanner reader;
 	private Controller controller;
