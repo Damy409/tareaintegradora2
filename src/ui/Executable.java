@@ -5,8 +5,6 @@ import model.Controller;
 
 public class Executable {
 
-	//Comentario de prueba
-
 	private Scanner reader;
 	private Controller controller;
 
